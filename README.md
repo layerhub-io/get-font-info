@@ -31,7 +31,7 @@ This package depends on `fc-scan`. Make sure you have it installed in your syste
 ## Installation
 
 ```bash
-npm i font-info
+npm i get-font-info
 ```
 
 ## Usage
