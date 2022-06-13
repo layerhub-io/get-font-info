@@ -1,5 +1,5 @@
 {
-  "name": "font-info",
+  "name": "get-font-info",
   "version": "0.1.0",
   "description": "Get font information",
   "main": "dist/index.js",
