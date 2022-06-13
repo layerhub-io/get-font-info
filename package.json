@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
-    "url": "https://github.com/xorb/font-info"
+    "url": "https://github.com/xorb/get-font-info"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

@@ -37,10 +37,8 @@ npm i font-info
 ## Usage
 
 ```ts
-import fontInfo from "font-info";
+import getFontInfo from "get-font-info";
 
-const font = await fontInfo(
-  "/home/xorb/Projects/Scenify/font-info/fonts/Inter-Regular.otf"
-);
+const font = await getFontInfo("./Inter-Regular.otf");
 console.log({ font });
 ```
