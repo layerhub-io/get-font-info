@@ -1,6 +1,10 @@
 const BOOLEANS = ["True", "False"];
 
-export default function (metadata: string) {
+// const parseInstallation = () => {
+
+// }
+
+export default function(metadata: string) {
   let fontInfo: Record<string, any> = {};
 
   // Split and remove additional chars
