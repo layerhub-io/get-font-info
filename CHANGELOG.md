@@ -1,5 +1,11 @@
 # font-info
 
+## 0.1.1
+
+### Patch Changes
+
+- 803aa6a: Validate if fc-scan is installed
+
 ## 0.1.0
 
 ### Minor Changes
