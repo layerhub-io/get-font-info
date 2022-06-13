@@ -1,3 +1,1 @@
-import fontInfo from "./font-info";
-
-export default fontInfo;
+export { default } from "./get-font-info";
