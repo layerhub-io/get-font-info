@@ -1,6 +1,6 @@
 {
   "name": "get-font-info",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Get font information",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -10,6 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "ts-node src",
+    "prepublish": "pnpm build",
     "build": "tsc"
   },
   "keywords": [
