@@ -36,8 +36,20 @@ npm i get-font-info
 
 ## Usage
 
+Using typescript or modern javascript:
+
 ```ts
-import getFontInfo from "get-font-info";
+import { getFontInfo } from "get-font-info";
+
+const font = await getFontInfo("./Inter-Regular.otf");
+console.log({ font });
+```
+
+
+Using es5:
+
+```ts
+const { geFontInfo } = require("get-font-info");
 
 const font = await getFontInfo("./Inter-Regular.otf");
 console.log({ font });
