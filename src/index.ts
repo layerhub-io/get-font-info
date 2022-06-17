@@ -1,1 +1,1 @@
-export { default } from "./get-font-info";
+export { default as geFontInfo } from "./get-font-info";
