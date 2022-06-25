@@ -1,6 +1,6 @@
 {
   "name": "get-font-info",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Get font information",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

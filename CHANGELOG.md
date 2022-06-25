@@ -1,5 +1,11 @@
 # font-info
 
+## 0.3.0
+
+### Minor Changes
+
+- 4cfe107: update parser
+
 ## 0.2.0
 
 ### Minor Changes
